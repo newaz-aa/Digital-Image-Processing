@@ -1,8 +1,33 @@
-# Digital-Image-Processing
-Introductory lab on digital image processing using MATLAB. This lab covers the following topics - 
-1. How to represent and work with images in MATLAB
-2. Performing simple modifications on images - rotation, conversion, cropping, etc.
-3. Image enhancement techniques - contrast adjustment, gamma correction 
-4. Image segmentation - Thresholding
-5. Image histogram - histogram equalization
-6. Introduction to MATLAB image processing apps - Image segmenter app, color thresholding app, image region analyzer app.
+
+# Digital Image Processing Lab
+
+![MATLAB](https://img.shields.io/badge/MATLAB-2022a-red)
+
+
+
+This is an introductory lab on digital image processing using MATLAB. The code files and manuals can be found in this repository.
+
+## Topics
+
+This lab covers the following topics -
+
+* How to represent and work with images in MATLAB
+* Performing simple modifications on images - rotation, conversion, cropping, etc.
+* Image enhancement techniques - contrast adjustment, gamma correction
+* Image segmentation - Thresholding
+* Image histogram - histogram equalization
+* Introduction to MATLAB image processing apps - Image segmenter app, color thresholding app, image region analyzer app.
+## Recorded Lectures
+For a video demonstration and discussion of the codes, check the YouTube video -
+
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=AKzelQ1HCRA&ab_channel=TheGrayWolf)
+
+## Additional Content
+Introduction to digital image processing using Python will be provided later.
+## Screenshots
+
+![App Screenshot](https://github.com/newaz-aa/Digital-Image-Processing/blob/main/Figures/Multilevel%20thresholding%20Xray.png)
+
+
+![App Screenshot](https://github.com/newaz-aa/Digital-Image-Processing/blob/main/Figures/MixCollage-12-Sep-2024-03-43-AM-8647.jpg)
+
