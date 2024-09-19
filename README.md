@@ -11,12 +11,24 @@ This is an introductory lab on digital image processing using MATLAB. The code f
 
 This lab covers the following topics -
 
+### Basics
 * How to represent and work with images in MATLAB
 * Performing simple modifications on images - rotation, conversion, cropping, etc.
 * Image enhancement techniques - contrast adjustment, gamma correction
-* Image segmentation - Thresholding
 * Image histogram - histogram equalization
-* Introduction to MATLAB image processing apps - Image segmenter app, color thresholding app, image region analyzer app.
+
+### Image Segmentation
+* Thresholding - Global, manual, adaptive
+* Example - Cracks in concrete images
+
+### Image Features
+* Detecting corners, blobs, regions
+* Harris-Stephens method, SURF, MSER
+
+### Image processing apps
+* Image segmenter app, color thresholding app, image region analyzer app.
+
+  
 ## Recorded Lectures
 For a video demonstration and discussion of the codes, check the YouTube video -
 
