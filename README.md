@@ -35,7 +35,7 @@ For a video demonstration and discussion of the codes, check the YouTube video -
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=AKzelQ1HCRA&ab_channel=TheGrayWolf)
 
 ## Additional Content
-Introduction to digital image processing using Python will be provided later.
+An introduction to digital image processing using Python will be provided later.
 ## Screenshots
 
 ![App Screenshot](https://github.com/newaz-aa/Digital-Image-Processing/blob/main/Figures/Multilevel%20thresholding%20Xray.png)
