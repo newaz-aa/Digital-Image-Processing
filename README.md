@@ -1,5 +1,5 @@
 
-# Digital Image Processing Lab
+# Digital Image Processing using MATLAB
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-2022a-red)
 
