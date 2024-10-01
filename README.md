@@ -25,6 +25,10 @@ This lab covers the following topics -
 * Detecting corners, blobs, regions
 * Harris-Stephens method, SURF, MSER
 
+### Image Registration
+* Compare pupil dilation from eye images
+* Registration estimator app
+
 ### Image processing apps
 * Image segmenter app, color thresholding app, image region analyzer app.
 
@@ -34,8 +38,7 @@ For a video demonstration and discussion of the codes, check the YouTube video -
 
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=AKzelQ1HCRA&ab_channel=TheGrayWolf)
 
-## Additional Content
-An introduction to digital image processing using Python will be provided later.
+
 ## Screenshots
 
 ![App Screenshot](https://github.com/newaz-aa/Digital-Image-Processing/blob/main/Figures/Multilevel%20thresholding%20Xray.png)
